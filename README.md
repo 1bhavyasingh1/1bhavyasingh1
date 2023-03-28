@@ -1,9 +1,9 @@
 [![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)]()
 <h2 style="color:red">Greetings👋</h2>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/XjtE_QFunw8AAAAM/sophia-the-robot-destroy.gif">
-- 🌱 I’m currently learning **Tensorflow,Pytorch,TypeScript,Angular,Rust**
+- 🌱 I’m currently learning  Tensorflow  Pytorch  TypeScript  Angular  Rust  Go
 
-- 💬 Ask me about **React,React-Native**
+- 💬 Ask me about  React  React-Native
 
 - 📫 How to reach me **bhavyasingh.gwl@gmail.com**
 
