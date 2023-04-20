@@ -2,7 +2,7 @@
 <h2 style="color:red">Greetings👋</h2>
 <img align="right" alt="Coding" width="400" src="https://images.pling.com/img/00/00/45/12/56/1230882/1efc768bd7a1683b1e19c689d1eed7f7c070.gif">
 - 🌱 I’m currently learning  
-- TypeScript GoLang PostgreSQL Docker Kubernetes Maven Jenkins Ansible ValidKube 
+- TypeScript  GoLang  PostgreSQL  Docker  Kubernetes  Maven  Jenkins  Ansible  ValidKube 
 
 - 💬 Ask me about  React  React-Native
 
