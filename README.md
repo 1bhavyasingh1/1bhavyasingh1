@@ -1,7 +1,8 @@
 [![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)]()
 <h2 style="color:red">Greetings👋</h2>
 <img align="right" alt="Coding" width="400" src="https://images.pling.com/img/00/00/45/12/56/1230882/1efc768bd7a1683b1e19c689d1eed7f7c070.gif">
-- 🌱 I’m currently learning  TypeScript GoLang PostgreSQL Docker Kubernetes Maven Jenkins Ansible ValidKube 
+- 🌱 I’m currently learning  
+- TypeScript GoLang PostgreSQL Docker Kubernetes Maven Jenkins Ansible ValidKube 
 
 - 💬 Ask me about  React  React-Native
 
