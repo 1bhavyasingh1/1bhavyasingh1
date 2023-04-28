@@ -6,7 +6,7 @@
 
 - 💬 Ask me about  React  React-Native
 
-- 📫 How to reach me **bhavyasingh.gwl@gmail.com**
+- ⚡ Fun fact **I am a F1 racing enthusiast**
 
 
 <p align="left">
