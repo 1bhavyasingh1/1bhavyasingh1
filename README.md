@@ -6,7 +6,7 @@
 
 - 💬 Ask me about  React  React-Native
 
-- ⚡ Fun fact **I am a F1 racing enthusiast**
+- ⚡ Fun fact **I am a F1 racing enthusiast 🏎️**
 
 
 <p align="left">
