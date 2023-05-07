@@ -18,7 +18,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=1bhavyasingh1&theme=vision-friendly-dark&hide_border=true&bg_color=0D1117" alt="1bhavyasingh1" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=1bhavyasingh1&show_icons=true&locale=en&layout=compact&theme=highcontrast&hide_border=true&bg_color=0D1117" alt="1bhavyasingh1" /></p>
 
 
 
