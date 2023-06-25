@@ -22,14 +22,9 @@
 
 
 
-# :notebook_with_decorative_cover: Table of Contents
-
-- [About the Project](#star2-about-the-project)
-- [Contact](#handshake-contact)
 
 
-## :star2: About the Project
-
-## :handshake: Contact
-
-- [@twitter_handle](https://twitter.com/ImpudentWrecker) -
+##
+:handshake:<p align="left">
+<a href="https://twitter.com/impudentwrecker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="impudentwrecker" height="30" width="40" /></a>
+</p>
