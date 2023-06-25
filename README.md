@@ -22,7 +22,4 @@
 
 
 
-<div> <a href="https://twitter.com/ImpudentWrecker" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-<p align="left">
-<a href="https://twitter.com/ImpudentWrecker" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/twitter.svg" alt="ImpudentWrecker" height="30" width="40" /></a></p>
 
