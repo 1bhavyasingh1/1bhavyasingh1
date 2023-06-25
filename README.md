@@ -17,12 +17,19 @@
 
 
 
-<p align="left">
-<a href="https://twitter.com/ImpudentWrecker" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/twitter.svg" alt="ImpudentWrecker" height="30" width="40" /></a></p>
-
-
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=1bhavyasingh1&theme=vision-friendly-dark&hide_border=true&bg_color=0D1117" alt="1bhavyasingh1" /></p>
 
 
 
+# :notebook_with_decorative_cover: Table of Contents
+
+- [About the Project](#star2-about-the-project)
+- [Contact](#handshake-contact)
+
+
+## :star2: About the Project
+
+## :handshake: Contact
+
+- [@twitter_handle](https://twitter.com/ImpudentWrecker) -
